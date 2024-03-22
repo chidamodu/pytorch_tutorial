@@ -1,3 +1,4 @@
 # pytorch_tutorial
 
-TODO (sarnobat): find pytorch training notes from Cisco 2023-09
+Cisco training notes here:
+* `/media/sarnobat/3TB/2023/new/2023-09_pytorch_training_cisco`
