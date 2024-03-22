@@ -1,4 +1,4 @@
 # pytorch_tutorial
 
 Cisco training notes here:
-* `/media/sarnobat/3TB/2023/new/2023-09_pytorch_training_cisco`
+* `/Users/sarnobat/Library/Mobile Documents/com~apple~CloudDocs/0_New/2023/2023-09_pytorch_training/`
