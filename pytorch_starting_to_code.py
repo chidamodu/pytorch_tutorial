@@ -23,8 +23,8 @@ training_data = datasets.FashionMNIST(
     transform=ToTensor(),
 )
 
-# Download test data from open datasets.
-  = datasets.FashionMNIST(
+# Download test data from open datasets and call it validation
+validation = datasets.FashionMNIST(
     root="data",
     train=False,
     download=True,
