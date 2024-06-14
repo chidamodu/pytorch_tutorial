@@ -24,7 +24,7 @@ training_data = datasets.FashionMNIST(
 )
 
 # Download test data from open datasets.
-test_data = datasets.FashionMNIST(
+  = datasets.FashionMNIST(
     root="data",
     train=False,
     download=True,
