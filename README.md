@@ -1,3 +1,16 @@
+# LLM
+
+### 2024-11-01 Hello world Llama chatbot
+In one tab:
+```
+OLLAMA_MODELS=/home/sarnobat/trash/ /usr/local/bin/ollama serve
+```
+
+In another tab:
+```
+OLLAMA_MODELS=/home/sarnobat/trash/  ollama run llama3.2:1b
+```
+
 # pytorch_tutorial
 
 TODO: where are we running this?
